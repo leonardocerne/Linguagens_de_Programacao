@@ -1,0 +1,1 @@
+C:\Estudo\LP\Linguagens_de_Programacao\Rust\prog_basica_aula2\target\debug\prog_basica_aula2.exe: C:\Estudo\LP\Linguagens_de_Programacao\Rust\prog_basica_aula2\src\fernando.rs C:\Estudo\LP\Linguagens_de_Programacao\Rust\prog_basica_aula2\src\main.rs
