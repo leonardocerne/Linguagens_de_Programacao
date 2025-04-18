@@ -124,7 +124,9 @@ fn calcula(s:String) -> i32 {
 }
 
 fn main() {
-    println!("Hello, world!");
+    println!("_______________________________________________________________________________________________________________________
+    \nInsira a expressão que quer transformar em pós fixada, separada por espaços em branco (ex: ( 22 + 33 ) * 5
+    \n_______________________________________________________________________________________________________________________");
     let mut entrada = String::new();
     std::io::stdin().read_line(&mut entrada).expect("Erro");
     let resp = transforma(entrada);
