@@ -85,4 +85,5 @@ fn main() {
     // Dessa forma, conseguimos mudar um valor em uma função e retornar pra main sem problema
     m2(&mut m1);
     println!("{m1}");
+    
 }
